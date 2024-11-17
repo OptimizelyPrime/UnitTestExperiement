@@ -1,6 +1,6 @@
 using System;
 
-namespace ScientificCalculatorApp
+namespace TestemUp
 {
     public class ScientificCalculator
     {
